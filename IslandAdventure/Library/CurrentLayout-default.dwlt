@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Scene
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -122,7 +122,7 @@ MonoBehaviour:
   m_MinSize: {x: 579, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 88
+  controlID: 27
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 303, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 89
+  controlID: 28
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 303, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 90
+  controlID: 29
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -320,9 +320,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1.826129, y: -0.5277631, z: 2.9733782}
+    m_Target: {x: -2.2279787, y: -0.82107496, z: 2.9720297}
     speed: 2
-    m_Value: {x: 1.826129, y: -0.5277631, z: 2.9733782}
+    m_Value: {x: -2.2279787, y: -0.82107496, z: 2.9720297}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -369,13 +369,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.26265883, y: 0.5132028, z: -0.16860774, w: 0.7995963}
+    m_Target: {x: 0.17223257, y: -0.2576196, z: 0.04669667, w: 0.9497036}
     speed: 2
-    m_Value: {x: 0.26265883, y: 0.5132028, z: -0.16860773, w: 0.79959625}
+    m_Value: {x: -0.17223255, y: 0.2576196, z: -0.04669667, w: -0.9497036}
   m_Size:
-    m_Target: 3.5052524
+    m_Target: 4.875729
     speed: 2
-    m_Value: 3.5052524
+    m_Value: 4.875729
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -466,11 +466,11 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
-      y: 0
+      y: 21
       width: 960
-      height: 576
+      height: 555
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 480, y: 288}
+    m_Translation: {x: 480, y: 277.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -478,9 +478,9 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -480
-      y: -288
+      y: -277.5
       width: 960
-      height: 576
+      height: 555
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 960, y: 576}
@@ -580,7 +580,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 6efbffff
+      m_ExpandedIDs: 4ee8ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -711,14 +711,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: 96
-  m_LastProjectPath: D:\ProjectFiles\IslandAdventure
+  m_LastProjectPath: D:\ProjectFiles\AdventureIsland\IslandAdventure
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 8e420000
-    m_LastClickedID: 17038
-    m_ExpandedIDs: 000000008e420000
+    m_SelectedIDs: 2e530000
+    m_LastClickedID: 21294
+    m_ExpandedIDs: 000000002e530000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -746,7 +746,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000008e420000
+    m_ExpandedIDs: 000000002e530000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
